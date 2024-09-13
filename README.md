@@ -8,3 +8,8 @@ Key Skills - Data Preprocessing , Exploratory Data Analysis (EDA) ,Predictive Mo
 # Technologies Used
 Programming Language: Python
 Libraries - Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+# Titanic Dataset - https://colab.research.google.com/drive/1AQEqro4UPtps-DZ9Ucf_rvMYTXwjM73s?usp=sharing
+# Description :
+                This project focuses on analyzing the Titanic dataset and building a predictive model to estimate the likelihood of passenger survival. The dataset, available from Kaggle, provides detailed information on the passengers, including features such as age, gender, fare, class, and more.
+# Key Skills :   
+               Python , Pandas , NumPy , Scikit-learn , Matplotlib , Seaborn
